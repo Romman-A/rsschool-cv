@@ -3,7 +3,7 @@
 ## Contacts
 * Location: Belarus
 * Phone: +375 
-* GitHub: [Roman Aleks github page]("https://github.com/Romman-A")
+* GitHub: [Roman Aleks github page](https://github.com/Romman-A)
 
 ## About Me
 I have good interpersonal skills
@@ -25,7 +25,7 @@ alert( result );
 ```
 
 ## Education
-* University: [Belarusian National Technical University]("https://bsu.by/")
+* University: [Belarusian National Technical University](https://bsu.by/)
   
 ****
 ## Languages
