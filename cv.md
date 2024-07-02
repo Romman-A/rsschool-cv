@@ -25,10 +25,9 @@ alert( result );
 ```
 
 ## Education
-* [University: Belarusian National Technical University][Тег1]
-[Тег1]["https://bsu.by/"]
+* University: [Belarusian National Technical University]("https://bsu.by/")
   
-====
+****
 ## Languages
 * english A2
 
