@@ -50,10 +50,10 @@ h2 {
     padding-left: 16px;   
 }
 
-.maintext {
+.e-text {
     padding: 3px;
-    background-color: #eee;
-    border: 2px rgb(23, 250, 240);
+    background-color: #fff;
+    border: 2px rgb(100, 250, 240);
     border-radius: 12px;
 }
 
