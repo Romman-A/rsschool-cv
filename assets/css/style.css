@@ -1,0 +1,80 @@
+.container {
+    max-width: 800px;
+    margin: 0px auto;
+    margin-bottom: 8px;
+}
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+body { 
+    font-family: calibry;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #222222;
+    background-color: rgb(230, 250, 240);
+}
+
+h2 {
+    font-size: 18px;
+    text-shadow: 2px 2px rgb(160, 200, 200);
+    text-align: left;
+}
+
+.header {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px rgb(100, 250, 240); 
+    border-color: rgb(230, 250, 240);
+    display: flex;
+    border-end-end-radius: 15px;
+    margin-bottom: 8px;
+}
+
+.header img {
+    width: 360px;
+    height: 300px;
+}
+
+.header h1{
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: normal;
+    text-shadow: 1px 3px rgb(230, 250, 240);
+    text-align: left;
+}
+
+.header .text1 {
+    padding-left: 16px;   
+}
+
+.e-text {
+    padding: 3px;
+    background-color: #fff;
+    border: 2px rgb(100, 250, 240);
+    border-radius: 12px;
+}
+
+.exp-table {
+    width: 100%;
+    font-size: 15px;
+    padding: 10px 0px;
+    border-end-end-radius: 15px;
+    background-color: #fff;
+    border: 1px rgb(23, 250, 240);
+}
+
+table {
+    margin: 10px 20px;
+}
+
+.footer {
+    padding: 15px;
+    margin-top: 8px;
+    background-color: #eee;
+    border: 2px rgb(23, 250, 240);
+    border-radius: 16px;
+}
+
